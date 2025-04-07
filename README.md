@@ -8,8 +8,8 @@
 
 - `research/`：我的研究内容（包含研究方向、数据、代码、实验过程等）
 - `references/`：我整理的参考文献与阅读笔记
-- `personal-projects/：我自己进行的区块链相关项目开发与测试内容
-
+- `personal-projects/`：我自己进行的相关项目开发与测试内容
+- `some-nice-project/`: 一些自己看到的有趣项目
 ---
 
 ## 🎯 研究方向

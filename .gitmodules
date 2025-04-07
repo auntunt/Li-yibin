@@ -1,0 +1,6 @@
+[submodule "some-nice-project/nice-projects/awesome-production-ml"]
+	path = some-nice-project/nice-projects/awesome-production-ml
+	url = https://github.com/EthicalML/awesome-production-machine-learning.git
+[submodule "some-nice-project/awesome-production-ml"]
+	path = some-nice-project/awesome-production-ml
+	url = https://github.com/EthicalML/awesome-production-machine-learning.git
